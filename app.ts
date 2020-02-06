@@ -1,6 +1,9 @@
 import {Spacecraft, Containership} from './base-ships'
 import {MillenniumFalcon} from './starfights'
 
+import * as _ from 'lodash'
+console.log(_.pad("Typescript Examples", 40, "="))
+
 /**
  * VARIÁVEIS
  */

@@ -2,6 +2,8 @@
 exports.__esModule = true;
 var base_ships_1 = require("./base-ships");
 var starfights_1 = require("./starfights");
+var _ = require("lodash");
+console.log(_.pad("Typescript Examples", 40, "="));
 /**
  * VARIÁVEIS
  */
